@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ATAPI</id>
+    <version>1.0.0</version>
+    <title>ATAPI</title>
+    <authors>ATAPI</authors>
+    <icon>music-library.png</icon>
+    <description>Package Description</description>
+    <repository type="git" url="https://github.com/seimranali/ATAPI.git" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+    <contentFiles>
+      <files include="any/net6.0/music-library.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\ATAPI\bin\Release\net6.0\ATAPI.dll" target="lib\net6.0\ATAPI.dll" />
+    <file src="D:\ATAPI\music-library.ico" target="content\music-library.ico" />
+    <file src="D:\ATAPI\music-library.ico" target="contentFiles\any\net6.0\music-library.ico" />
+    <file src="C:\Users\Admin\Downloads\music-library.png" target="\music-library.png" />
+  </files>
+</package>

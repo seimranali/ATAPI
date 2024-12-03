@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ATAPI.NetCore</id>
+    <version>1.0.0</version>
+    <title>Imran Ali</title>
+    <authors>ATAPI</authors>
+    <readme>README.md</readme>
+    <description>ATAPI is a .NET6 managed library wrapper for working with the Windows Telephony API (TAPI2).</description>
+    <releaseNotes>ATAPI .NET Library</releaseNotes>
+    <tags>ATAPI TAPI2 TAPI3 Avaya TAPI</tags>
+    <repository type="git" url="https://github.com/seimranali/ATAPI.git" commit="69dfc75d6ff13d6d62f6108825e0345c04b517e6" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\ATAPI\bin\Release\net6.0\ATAPI.dll" target="lib\net6.0\ATAPI.dll" />
+    <file src="D:\ATAPI\docs\README.md" target="\README.md" />
+  </files>
+</package>

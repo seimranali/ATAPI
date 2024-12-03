@@ -1,0 +1,1 @@
+﻿ATAPI is a .NET6 managed library wrapper for working with the Windows Telephony API (TAPI2).

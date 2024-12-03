@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ATAPI</id>
+    <version>1.0.0</version>
+    <title>ATAPI .NET</title>
+    <authors>ATAPI</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\ATAPI\bin\Debug\net6.0\ATAPI.dll" target="lib\net6.0\ATAPI.dll" />
+  </files>
+</package>

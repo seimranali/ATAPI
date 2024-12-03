@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <Title>Imran Ali</Title>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PlatformTarget>x86</PlatformTarget>
+    <AnalysisLevel>latest</AnalysisLevel>
+    <RepositoryUrl>https://github.com/seimranali/ATAPI.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageId>ATAPI.NetCore</PackageId>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <Optimize>True</Optimize>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <Optimize>True</Optimize>
+  </PropertyGroup>
+
+
+  <PropertyGroup>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageTags>ATAPI; TAPI2; TAPI3; Avaya TAPI;</PackageTags>
+    <PackageReleaseNotes>ATAPI .NET Library</PackageReleaseNotes>
+    <Description>ATAPI is a .NET6 managed library wrapper for working with the Windows Telephony API (TAPI2).</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="docs\README.md" Pack="true" PackagePath="\" />
+  </ItemGroup>
+
+</Project>
