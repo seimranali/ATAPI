@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ATAPI\\ATAPI.csproj": {}
+    "D:\\ATAPIgit\\ATAPI\\ATAPI.csproj": {}
   },
   "projects": {
-    "D:\\ATAPI\\ATAPI.csproj": {
-      "version": "1.0.0",
+    "D:\\ATAPIgit\\ATAPI\\ATAPI.csproj": {
+      "version": "1.0.1",
       "restore": {
-        "projectUniqueName": "D:\\ATAPI\\ATAPI.csproj",
+        "projectUniqueName": "D:\\ATAPIgit\\ATAPI\\ATAPI.csproj",
         "projectName": "ATAPI.NetCore",
-        "projectPath": "D:\\ATAPI\\ATAPI.csproj",
+        "projectPath": "D:\\ATAPIgit\\ATAPI\\ATAPI.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\ATAPI\\obj\\",
+        "outputPath": "D:\\ATAPIgit\\ATAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,8 +44,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -66,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -28,6 +28,9 @@
     <PackageTags>ATAPI; TAPI2; TAPI3; Avaya TAPI;</PackageTags>
     <PackageReleaseNotes>ATAPI .NET Library</PackageReleaseNotes>
     <Description>ATAPI is a .NET6 managed library wrapper for working with the Windows Telephony API (TAPI2).</Description>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.1</FileVersion>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>

@@ -10,3 +10,15 @@ D:\ATAPI\obj\Release\net6.0\refint\ATAPI.dll
 D:\ATAPI\obj\Release\net6.0\ATAPI.pdb
 D:\ATAPI\obj\Release\net6.0\ref\ATAPI.dll
 D:\ATAPI\obj\Release\net6.0\ATAPI.sourcelink.json
+D:\ATAPIgit\ATAPI\bin\Release\net6.0\ATAPI.deps.json
+D:\ATAPIgit\ATAPI\bin\Release\net6.0\ATAPI.dll
+D:\ATAPIgit\ATAPI\bin\Release\net6.0\ATAPI.pdb
+D:\ATAPIgit\ATAPI\obj\Release\net6.0\ATAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATAPIgit\ATAPI\obj\Release\net6.0\ATAPI.AssemblyInfoInputs.cache
+D:\ATAPIgit\ATAPI\obj\Release\net6.0\ATAPI.AssemblyInfo.cs
+D:\ATAPIgit\ATAPI\obj\Release\net6.0\ATAPI.csproj.CoreCompileInputs.cache
+D:\ATAPIgit\ATAPI\obj\Release\net6.0\ATAPI.sourcelink.json
+D:\ATAPIgit\ATAPI\obj\Release\net6.0\ATAPI.dll
+D:\ATAPIgit\ATAPI\obj\Release\net6.0\refint\ATAPI.dll
+D:\ATAPIgit\ATAPI\obj\Release\net6.0\ATAPI.pdb
+D:\ATAPIgit\ATAPI\obj\Release\net6.0\ref\ATAPI.dll

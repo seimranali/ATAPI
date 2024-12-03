@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "ATAPI/1.0.0": {
+      "ATAPI/1.0.1": {
         "runtime": {
           "ATAPI.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "ATAPI/1.0.0": {
+    "ATAPI/1.0.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
